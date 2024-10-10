@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTiempoDeVida</string>
+    <string name="botonIncreSin">Incremental</string>
+    <string name="botonIncreCon">Incrementar Estable</string>
+    <string name="textSinView">Sin ViewMOdel: 0</string>
+    <string name="textConView">Con ViewMOdel: 0</string>
+</resources>
